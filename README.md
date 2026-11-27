@@ -1,4 +1,4 @@
-# [App Name]
+# BookVerse
 <!-- About your app: what does your app do? Example: "Today's carinderia menu and orders, without paper." -->
 
 BookVerse is a simple and user-friendly website where readers can find and explore different books, browse by category, view book details, and save books by their interest.
@@ -20,7 +20,7 @@ Learners and Casual Readers - people who read books to gain kanowledge and to le
 
 ## Solution
 <!-- Add your solution -->
-BookVerse makes easier to find book in one website. Users can search books, browse different categories, read books details and save books to bookshelf. They can also organixe their books based on reading progress.
+BookVerse makes easier to find book in one website. Users can search books, browse different categories, read books details and save books to bookshelf. They can also organize their books based on reading progress.
 
 ## Main Feature
 <!-- The ONE thing your app must do. If you removed everything else, what's left?
@@ -31,12 +31,12 @@ Book discovery and Bookshelf - Users can browse books by category, view book det
 <!-- List 3–5 pages and one line on what each page shows. Homepage and App page are required. -->
 - Homepage: Displays the website introduction and featured content.
 - App page: Shows the Book Library where users can search, browse books by category and view book details.
-- My Bookshelf: Shows saved books into different status to All, Continue Reading, What to Read, and Finished.
+- My Bookshelf: Shows saved books into different status to All, Continue Reading, Want to Read, and Finished.
 - Explore Books: Shows explore featured books on the website and discover books recommended by popularity. 
 
 ## Team
 <!-- Name – role. Example: Juan Dela Cruz – Developer -->
-- Operio, Shaira Irelle - Homepage and My Bookshelf Developerr
+- Operio, Shaira Irelle - Homepage and My Bookshelf Developer
 - Cariaga, Shamir Asriel - Book Library and Book Details Developer
 
 ## Live Link
