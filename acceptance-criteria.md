@@ -29,3 +29,46 @@ US4:
 - AC4.2: Given a book is already saved on My Bookshelf, when the user selects a different reading status for that book, then the book moves to the newly selected status and is removed from its previous status without creating duplicates.
 - AC4.3: Given the user opens My Bookshelf (bookshelf.html), when the user selects "Want to Read", "Currently Reading", or "Finished", then only books assigned to that status display.
 - AC4.4: Given no books are saved under the selected reading status (or the bookshelf is empty), when My Bookshelf displays that section, then "Your bookshelf is currently empty" appears alongside a link to the Book Library (app.html).
+
+
+
+(Temporary)
+### Feature: Featured Books 
+US1: As a reader, I want to explore featured books on the website, so that I can conveniently discover books recommended by popularity. 
+- AC1.1: Featured Books section displays selected popular books in the interface in every category. 
+- AC1.2: Each featured book displays the book cover, title and author. 
+- AC1.3: Featured Books layout and interactive buttons remain accessible and responsive across different screen sizes. 
+
+US2:
+
+US3:
+
+### Feature: Book Library 
+US2: As a reader, I want to browse books by category, so that I can easily find books matching my interests in one place without visiting multiple websites. 
+- AC2.1: Filter must show categories such as romance, fantasy, mystery, technology, education, personal growth, fiction, and self-development. 
+- AC2.2: Selecting a category displays matching books from that category, and search or selection is not case sensitive.
+- AC2.3: Book covers and titles must be displayed for each book in the selected category
+
+US2:
+
+US3:
+
+### Feature: View Book Details and Quick Summaries
+US3: As a reader, I want to view detailed information about a selected book so that I can understand its content and learn more about the book before deciding to read it.
+- AC3.1: Clicking a book shows the details such as cover, title, author, description, and published date.
+- AC3.2: The book details shows ongoing and finished status.
+- AC3.3: A short summary of the book of what is the book all about.
+
+US2:
+
+US3:
+
+### Feature: My Bookshelf 
+US4: As a reader, I want to organize books into different reading status sections, so that I can keep my book exploration organized in a single platform. 
+- AC4.1: My Bookshelf displays separate sections for All, Continue Reading, What to Read, and Finished.
+- AC4.2: Clicking a reading status control filters or displays books under that status. 
+- AC4.3: Empty reading status sections display a clear empty state that no books have been added.
+
+US2:
+
+US3:
