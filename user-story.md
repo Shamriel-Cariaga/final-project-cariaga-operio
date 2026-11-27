@@ -1,40 +1,13 @@
 # User Stories
-<!--
-A user story describes ONE thing a user wants to do, from their point of view.
-Write 3–5 stories using this format:
 
-As a [type of user], I want to [do something] so that [I get this benefit].
+### Feature: Featured Books Showcase
+US1: As a reader, I want to discover featured books on the homepage so that I can explore recommended titles and find books that interest me.
 
-Tips:
-- Give each story an ID (US1, US2...). You'll use these IDs in acceptance-criteria.md.
-- One action per story. If you see "and" in the middle, split it into two stories.
-- The "so that" part is the reason. If you can't think of one, you may not need that feature.
-- Put your most important story first. That's the one you'll build first.
+### Feature: Book Library
+US2: As a reader, I want to browse, search, and filter books by category so that I can easily find titles that match my reading preferences.
 
-Example:
-US1: As a customer, I want to see today's menu with prices so that I can decide what to order.
+### Feature: View Book Details and Quick Summaries
+US3: As a reader, I want to view detailed information about a selected book so that I can understand its content and learn more about the book before deciding to read it.
 
-US - User Story
--->
-
-### Feature: 
-US1:
-
-US2:
-
-US3:
-
-### Feature: 
-US1:
-
-US2:
-
-US3:
-
-### Feature:
-US1:
-
-US2:
-
-US3:
-
+### Feature: "My Bookshelf"
+US4: As a reader, I want to organize, update, and remove books across reading status categories ("Want to Read", "Currently Reading", and "Finished") so that I can manage my reading list and keep track of my reading progress.
